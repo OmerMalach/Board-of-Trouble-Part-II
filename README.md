@@ -1,4 +1,4 @@
-# Multi-Agent Pathfinding implementation :running_man::running:
+# MultiAgent Pathfinding implementation :running_man::running:
 
 This repo serves as an implementation of a few Multi-Agent Pathfinding algorithms from scratch in Python using networkx, copy, numpy and tqdm.
 
